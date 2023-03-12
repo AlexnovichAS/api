@@ -55,7 +55,7 @@ public class StepsApi {
         Allure.addAttachment("Локация", locationCharacter);
     }
 
-    @И("^Получить из списка последнего эпизода ID последнего персонажа")
+    @И("Получить из списка последнего эпизода, ID последнего персонажа")
     public static void getLastCharacter() {
         Response getLastCharacter = given()
                 .spec(requestSpecGet(getProperty("rick.url")))
