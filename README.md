@@ -1,5 +1,5 @@
 # Тестирование API приложений:
--["rickandmortyapi"](https://rickandmortyapi.com/api) <br>
+-["rickandmortyapi"](https://rickandmortyapi.com/documentation/#episode-schema) <br>
 -["reqres.in"](https://reqres.in/)
 ##
 ***
@@ -27,7 +27,7 @@
 ## Описание тестов
 ***
 В данный тестовый набор вошли следующие проверки:
-### Тест "Поиск персонажей и проверка совпадения данных" в приложении ["rickandmortyapi"](https://rickandmortyapi.com/api)
+### Тест "Поиск персонажей и проверка совпадения данных" в приложении ["rickandmortyapi"](https://rickandmortyapi.com/documentation/#episode-schema)
 - отправляет GET запрос с названием персонажа, для получения данных по персонажу
 - получает информацию по персонажу в формате json
 - отправляет GET запрос с ID последнего эпизода, для получения ID последнего персонажа
