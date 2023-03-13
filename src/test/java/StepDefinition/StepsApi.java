@@ -1,4 +1,4 @@
-package ApiSteps;
+package StepDefinition;
 
 import io.cucumber.java.ru.И;
 import io.qameta.allure.Allure;
