@@ -1,6 +1,6 @@
 # Тестирование API приложений:
--["rickandmortyapi"](https://rickandmortyapi.com/documentation/#episode-schema) <br>
--["reqres.in"](https://reqres.in/)
+# -["rickandmortyapi"](https://rickandmortyapi.com/documentation/#episode-schema) <br>
+# -["reqres.in"](https://reqres.in/)
 ##
 ***
 1. Создайте отдельную директорию на локальном компьютере
