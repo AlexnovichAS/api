@@ -7,8 +7,8 @@
 2. Установить JVM
 3. Необходима java JDK 8
 4. Установить apache-maven-3.8.1
-5. Скачайте все файлы которые расположены в [директории](https://github.com/AlexnovichAS/web.git) <br>
-   git clone https://github.com/AlexnovichAS/web.git
+5. Скачайте все файлы которые расположены в [директории](https://github.com/AlexnovichAS/api.git) <br>
+   git clone https://github.com/AlexnovichAS/api.git
 6. Установить Allure
 7. Откройте проект
 8. Установить все библиотеки из файла pom.xml
