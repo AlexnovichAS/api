@@ -4,7 +4,7 @@
 [![made-with-java](https://img.shields.io/badge/Maven-3.8.1-2626ae.svg)](https://downloads.apache.org)
 [![made-with-java](https://img.shields.io/badge/JUnit5-5.7.0-cd4848.svg)](https://junit.org/)
 [![made-with-java](https://img.shields.io/badge/Cucumber-6.9.1-cd4848.svg)](https://docs.cucumber.io/)
-[![made-with-java](https://img.shields.io/badge/Restasssured-4.2.0-green.svg)](https://rest-assured.io/)
+[![made-with-java](https://img.shields.io/badge/Restassured-4.2.0-green.svg)](https://rest-assured.io/)
 
 # Тестирование API приложений:
 # -["rickandmortyapi"](https://rickandmortyapi.com/documentation/#episode-schema) <br>
